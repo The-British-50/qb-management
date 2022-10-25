@@ -28,6 +28,9 @@ Config.BossMenus = {
     ['tuner'] = {
         vector3(125.53, -3007.18, 7.04),
     },
+    ['highways'] = {
+        vector3(1197.58, -1048.56, 41.14),
+    },
 
 }
 
@@ -51,10 +54,13 @@ Config.BossMenuZones = {
         { coords = vector3(-346.8, -133.64, 39.01), length = 1.15, width = 2.6, heading = 353.0, minZ = 38.59, maxZ = 39.99 },
     },
     ['fire'] = {
-        { coords = vector3(198.36, -1639.2, 29.8), length = 0.35, width = 0.45, heading = 351.0, minZ = 29.65, maxZ = 29.85 } ,
+        { coords = vector3(198.36, -1639.2, 29.8), length = 0.35, width = 0.45, heading = 351.0, minZ = 29.65, maxZ = 29.85 },
     },
     ['tuner'] = {
-        { coords = vector3(125.53, -3007.18, 7.04), length = 0.35, width = 0.45, heading = 351.0, minZ = 6.89, maxZ = 7.09 } ,
+        { coords = vector3(125.53, -3007.18, 7.04), length = 0.35, width = 0.45, heading = 351.0, minZ = 6.89, maxZ = 7.09 },
+    },
+    ['highways'] = {
+        { coords = vector3(1197.58, -1048.56, 41.14), length = 0.35, width = 0.45, heading = 351.0, minZ = 40.01, maxZ = 42.01 },
     },
 }
 
