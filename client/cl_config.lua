@@ -31,6 +31,9 @@ Config.BossMenus = {
     ['highways'] = {
         vector3(1197.58, -1048.56, 41.14),
     },
+    ['triadrecords'] = {
+        vector3(),
+    },
 
 }
 
@@ -60,6 +63,9 @@ Config.BossMenuZones = {
         { coords = vector3(125.53, -3007.18, 7.04), length = 0.35, width = 0.45, heading = 351.0, minZ = 6.89, maxZ = 7.09 },
     },
     ['highways'] = {
+        { coords = vector3(1197.58, -1048.56, 41.14), length = 0.35, width = 0.45, heading = 351.0, minZ = 40.01, maxZ = 42.01 },
+    },
+    ['triadrecords'] = {
         { coords = vector3(1197.58, -1048.56, 41.14), length = 0.35, width = 0.45, heading = 351.0, minZ = 40.01, maxZ = 42.01 },
     },
 }
