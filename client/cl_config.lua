@@ -32,7 +32,7 @@ Config.BossMenus = {
         vector3(1197.58, -1048.56, 41.14),
     },
     ['triadrecords'] = {
-        vector3(),
+        vector3(-818.81, -698.68, 28.86),
     },
 
 }
@@ -66,7 +66,7 @@ Config.BossMenuZones = {
         { coords = vector3(1197.58, -1048.56, 41.14), length = 0.35, width = 0.45, heading = 351.0, minZ = 40.01, maxZ = 42.01 },
     },
     ['triadrecords'] = {
-        { coords = vector3(1197.58, -1048.56, 41.14), length = 0.35, width = 0.45, heading = 351.0, minZ = 40.01, maxZ = 42.01 },
+        { coords = vector3(-818.81, -698.68, 28.86), length = 0.35, width = 0.45, heading = 351.0, minZ = 25.01, maxZ = 49.01 },
     },
 }
 
